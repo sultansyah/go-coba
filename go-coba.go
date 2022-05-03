@@ -4,7 +4,7 @@ import "fmt"
 
 func Login(nama string) {
 	if nama == "sultan" {
-		fmt.Println("anda berhasil login")
+		fmt.Println("Halo sultan, anda berhasil login")
 	} else {
 		fmt.Println("anda gagal login")
 	}
